@@ -11,7 +11,6 @@
             color: #333;
             overflow-x: hidden;background: #242424;
             background: linear-gradient(10deg, rgba(36, 36, 36, 1) 0%, rgba(102, 126, 234, 1) 100%);
-            /*background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);*/
         }
 
         /* Navigation */
@@ -143,12 +142,6 @@
             border-radius: 20px;
             color: white;
             margin: 2rem 0;
-            /*background: rgba(255, 255, 255, 0.95);
-            background: transparent;
-            backdrop-filter: blur(10px);
-            border-radius: 20px;
-            margin: 2rem 0;
-            color: white;*/
         }
 
         .about-content {
@@ -242,7 +235,6 @@
         .project-card {
             background: #242424;
             background: linear-gradient(10deg, rgba(36, 36, 36, 1) 0%, rgba(102, 126, 234, 1) 100%);
-            /*background: linear-gradient(135deg, #667eea, #764ba2);*/
             color: white;
             padding: 2rem;
             border-radius: 15px;
