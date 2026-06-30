@@ -149,7 +149,7 @@
         .about {
             background: rgba(255, 255, 255, 0.8);
             backdrop-filter: blur(10px);
-            border-radius: 20px;
+            border-radius: 0px 20px 20px 0px;
             color: #1a2f4d;
             margin: 2rem 0;
             box-shadow: 0 8px 32px rgba(26, 47, 77, 0.1);
@@ -243,11 +243,9 @@
         .projects {
             background: rgba(255, 255, 255, 0.8);
             backdrop-filter: blur(10px);
-            border-radius: 20px;
+            border-radius: 0px 20px 20px 0px;
             color: #1a2f4d;
             margin: 2rem 0;
-            /*margin-top: 2em;*/
-            /*margin-bottom: 2em;*/
             box-shadow: 0 8px 32px rgba(26, 47, 77, 0.1);
         }
 
@@ -340,7 +338,7 @@
         .contact {
             background: rgba(255, 255, 255, 0.8);
             backdrop-filter: blur(10px);
-            border-radius: 20px;
+            border-radius: 20px 20px 0px 0px;
             color: #1a2f4d;
             text-align: center;
             box-shadow: 0 8px 32px rgba(26, 47, 77, 0.1);
